@@ -1,6 +1,6 @@
 numpy==1.13.3
 matplotlib==1.5.3
-tensorflow==1.15.2
+tensorflow==2.5.0
 requests==2.11.1
 pandas==0.18.1
 luigi==2.8.0
